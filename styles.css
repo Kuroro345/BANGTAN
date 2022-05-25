@@ -242,4 +242,9 @@ footer div a{
     .imglogo {
         width: 80px;
     }
+    
+    .nav-main ul{
+        font-size: 16px;
+    }
+}
 }
